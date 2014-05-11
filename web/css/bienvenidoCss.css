@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+
+    width:1000px;
+    margin: 80px auto 40px;
+}
+
+p {
+    width: 300px;
+    margin: 40px auto;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #999;
+}
+
+/* text-shadow styles */
+
+h1 {
+    color: #d7ceb2;	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+    font: 80px 'BazarMedium';
+    letter-spacing: 10px;
+}
+
+h2 {
+    color: #d7ceb2;	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+    font: 50px 'BazarMedium';
+    letter-spacing: 10px;
+}
+
+
+PARAGRAPH CODE
+
+body:first-letter{
+    text-transform: uppercase;
+}
+body {
+    color: #424242;
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    margin: 40px auto;
+    text-transform: lowercase;
+    line-height: 145%;
+    font-size: 14pt;
+    font-variant: small-caps;
+}
